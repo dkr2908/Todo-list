@@ -1,0 +1,12 @@
+  body {
+  	background: orange
+  }
+  li {
+  	border: 2px red solid
+  }
+  #good{
+  	background-color: yellow
+  }
+  .line {
+  	text-decoration: line-through;
+  }
